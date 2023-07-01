@@ -1,0 +1,4 @@
+/home/wyc/Fuzzy-class/build/CMakeFiles/fuzzy.dir
+/home/wyc/Fuzzy-class/build/CMakeFiles/test.dir
+/home/wyc/Fuzzy-class/build/CMakeFiles/edit_cache.dir
+/home/wyc/Fuzzy-class/build/CMakeFiles/rebuild_cache.dir
